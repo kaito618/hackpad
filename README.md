@@ -32,3 +32,6 @@ and branded it and i call it the kpad k as in kaito
 finished at 4:40
 
 i've been trying to setup fusion 360 for a while now and i just gave up it's 5:32 am alr, i'm using linux and on an old laptop i've been trying got long time and i decided to switch to freecad instead and i alr installed it. i'll add screw holes to the pcb design and then export pcb.step to do the 3d model in freecad i feel like i'll take a break watching some freecad tuts or just sleep alr cuz i'm tired and countinue tmrr which is today alr lol my sleep sheshule is messed up fr the crazy thing that i was a morning bird , (btw i miss u bitsy if u reading this ly)
+
+i added the screw holes and added the 3d moedls to freecad i'll cont when i wake up cuz i obv k nothing about freecad see ya 
+end of session at 2026/1/4 6:1 am
