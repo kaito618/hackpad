@@ -14,3 +14,9 @@ i've just made the schematic and connected all the parts 2040 microcontroller an
 guess what it's 2:22 am and i alr changed my mind and added oled display tho i feel like i'll regret it later lol 
 
 ![with oled screen](https://github.com/user-attachments/assets/42db99d9-55fe-47f8-881f-afbe783dcbf5)
+
+
+starting with pcb step at 2:33 am 
+finished the layout and connection step at 3:42 am 
+
+![connected](https://github.com/user-attachments/assets/e72e8bc9-91e9-4c36-b4c2-398e1a16c93f)
