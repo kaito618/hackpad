@@ -25,8 +25,10 @@ did some sligh modifications on the routing system gave more space between lines
 and branded it and i call it the kpad k as in kaito 
 
 ![BACK3D](https://github.com/user-attachments/assets/768d03a3-bcb2-4a98-a95a-9174e8d06987)
+
+
 ![FR0NT 3D](https://github.com/user-attachments/assets/38868e3c-5d57-4aba-bdc8-684411479a06)
 ![DONE PCB](https://github.com/user-attachments/assets/d1dd9f37-5c25-4259-aef2-64da49c4b78d)
 finished at 4:40
 
-
+i've been trying to setup fusion 360 for a while now and i just gave up it's 5:32 am alr, i'm using linux and on an old laptop i've been trying got long time and i decided to switch to freecad instead and i alr installed it. i'll add screw holes to the pcb design and then export pcb.step to do the 3d model in freecad i feel like i'll take a break watching some freecad tuts or just sleep alr cuz i'm tired and countinue tmrr which is today alr lol my sleep sheshule is messed up fr the crazy thing that i was a morning bird , (btw i miss u bitsy if u reading this ly)
