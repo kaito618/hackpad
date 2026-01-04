@@ -27,4 +27,6 @@ and branded it and i call it the kpad k as in kaito
 ![BACK3D](https://github.com/user-attachments/assets/768d03a3-bcb2-4a98-a95a-9174e8d06987)
 ![FR0NT 3D](https://github.com/user-attachments/assets/38868e3c-5d57-4aba-bdc8-684411479a06)
 ![DONE PCB](https://github.com/user-attachments/assets/d1dd9f37-5c25-4259-aef2-64da49c4b78d)
+finished at 4:40
+
 
