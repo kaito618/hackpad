@@ -35,3 +35,9 @@ i've been trying to setup fusion 360 for a while now and i just gave up it's 5:3
 
 i added the screw holes and added the 3d moedls to freecad i'll cont when i wake up cuz i obv k nothing about freecad see ya 
 end of session at 2026/1/4 6:1 am
+------------------------------------
+it's 2026/1/5 and i've been working on the 3d enclosure for hours now it's not fun at all it's actually tourtour the worst experience till now, what i thought would be the easiest is actually the worst ngl i've used blender before so i knew what was waiting for me but omg i'e always hated 3d modeling alot of complexity for no reason and the contorl system is so messed up and complicated and u need to learn each button first etc and i don't like that i just like to dive in and use the software immediately and only learning what i need but this ins't the case with those softwares they were made to be pain in the back that's what i managed to do after all that time and the silly errors that make no sense not even mentioning that fusion didn't work on my laptop and had to switch to freecad whcih still almost the same thing i'm really off now it even got me thinking of dumping the whole project tho i alr finished the pcb, if i still got soul in me i'll prob try to change the software and give it one last chance 
+![Screenshot_2026-01-05_02-57-33](https://github.com/user-attachments/assets/4a29475f-67ef-4243-8563-37fa1b546242)
+
+
+
