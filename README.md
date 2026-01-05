@@ -1,4 +1,28 @@
+[bom.csv](https://github.com/user-attachments/files/24426624/bom.csv)
 # hackpad
+![full look](https://github.com/user-attachments/assets/01e19b98-0800-49fd-bf8c-9a057464779e)
+3d look
+
+![sch2](https://github.com/user-attachments/assets/5df0ecea-1595-4c45-b72e-82db39002474)
+![sch](https://github.com/user-attachments/assets/a234f5d3-900d-4a2e-9ce6-0dce28ad6cfb)
+schematic screenshot
+![pcb look](https://github.com/user-attachments/assets/49c27150-cd61-4b0f-911c-a4945d69f0c4)
+pcb 
+![pcb 3d back](https://github.com/user-attachments/assets/4278a86e-aaf5-48ce-938a-5d600dd1ee15)
+![3d pcb front](https://github.com/user-attachments/assets/38105d17-fabf-4b9a-8081-b18d19960734)
+
+bom 
+| Reference | Component | Footprint | Qty | Description |
+|---|---|---|---|---|
+| U1 | Seeed XIAO RP2040 | XIAO-RP2040-DIP | 1 | Main Microcontroller (MCU) |
+| SW1-SW9 | MX Switches | SW_Cherry_MX_1.00u_PCB | 9 | 1.00u Mechanical switches |
+| J1 | 0.91" OLED Display | PinHeader_1x04_P2.54mm | 1 | 128x32 I2C OLED Screen |
+| J1 (Pin) | 1x04 Female Header | PinHeader_1x04_P2.54mm | 1 | 2.54mm Socket for OLED |
+| H1-H4 | M3 Screws | MountingHole_3.2mm_M3 | 4 | Screws for PCB and Case |
+| CASE | 3D Printed Case | Custom Enclosure | 1 | Top & Bottom shell |
+
+
+
 i'm making a hackpad and facing my hesitation cuz of the coding part 
 
 
