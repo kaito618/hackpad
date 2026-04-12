@@ -1,4 +1,3 @@
-[bom.csv](https://github.com/user-attachments/files/24426624/bom.csv)
 # hackpad
 ![full look](https://github.com/user-attachments/assets/01e19b98-0800-49fd-bf8c-9a057464779e)
 3d look
