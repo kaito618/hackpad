@@ -1,4 +1,7 @@
 # hackpad
+i'm making a 3x3 macropad with an oled screen using the single pin method directly connecting the switches to the microcontroller pins and using i2c for the screen  
+
+------------------
 ![full look](https://github.com/user-attachments/assets/01e19b98-0800-49fd-bf8c-9a057464779e)
 3d look
 
