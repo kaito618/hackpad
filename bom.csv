@@ -2,4 +2,4 @@ Item,Purpose,Quantity,Total (USD),Distributor,Link
 0.96 Inch OLED Module,Screen,1,4.71,Amazon EG,https://www.amazon.eg/-/en/Arduino-OLED-LCD-Display-Module/dp/B097LKXL7K/ref=sr_1_2?sr=8-2
 MX Switches,Keys,9,11.47,Amazon EG,https://www.amazon.eg/-/en/gp/product/B0FVFJZ7ZL/ref=ewc_pr_img_1?smid=A1ZVRGNO5AYLOV&psc=1
 Seeed Studio XIAO RP2040,Microcontroller,1,9.4,Amazon EG,https://www.amazon.eg/-/en/gp/product/B0GHNR74YH/ref=ewc_pr_img_3?smid=A1FZS2ISSCLNWQ&psc=1
-pcb ,project baord,1,bought(don't need reimb),Amazon EG,https://jlcpcb.com/
+pcb ,project baord,1,bought(don't need reimb),jlpcb,https://jlcpcb.com/
