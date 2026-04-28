@@ -16,6 +16,7 @@ bom
 | U1 | Seeed XIAO RP2040 | XIAO-RP2040-DIP | 1 | Main Microcontroller (MCU) |
 | SW1-SW9 | MX Switches | SW_Cherry_MX_1.00u_PCB | 9 | 1.00u Mechanical switches |
 | J1 | 0.91" OLED Display | PinHeader_1x04_P2.54mm | 1 | 128x32 I2C OLED Screen |
+| J2 | pcb | pcb | 1 | the board (alr bought) |
 
 
 
