@@ -1,6 +1,38 @@
-# hackpad
-i'm making a 3x3 macropad with an oled screen using the single pin method directly connecting the switches to the microcontroller pins and using i2c for the screen  
+# my own macropad (kpad)
+### 3x3 macropad with an oled screen
 
+this project is a macropad i designed to fill my needs using my pc what it has :
+
+- 3x3 MX switches (programmable)
+- oled screen
+- 3d case (optional)
+- firmaware
+
+
+## the schematics
+
+![with oled screen](https://github.com/user-attachments/assets/42db99d9-55fe-47f8-881f-afbe783dcbf5)
+
+- using the xiao rp2040 as our microcontroller
+- connecting the switches directly using "single pin method"
+- using i2c with the oled screen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+journal
 ------------------
 ![full look](https://github.com/user-attachments/assets/01e19b98-0800-49fd-bf8c-9a057464779e)
 3d look
@@ -13,13 +45,6 @@ pcb
 ![pcb 3d back](https://github.com/user-attachments/assets/4278a86e-aaf5-48ce-938a-5d600dd1ee15)
 ![3d pcb front](https://github.com/user-attachments/assets/38105d17-fabf-4b9a-8081-b18d19960734)
 
-bom 
-| Reference | Component | Footprint | Qty | Description |
-|---|---|---|---|---|
-| U1 | Seeed XIAO RP2040 | XIAO-RP2040-DIP | 1 | Main Microcontroller (MCU) |
-| SW1-SW9 | MX Switches | SW_Cherry_MX_1.00u_PCB | 9 | 1.00u Mechanical switches |
-| J1 | 0.91" OLED Display | PinHeader_1x04_P2.54mm | 1 | 128x32 I2C OLED Screen |
-| J2 | pcb | pcb | 1 | the board (alr bought) |
 
 
 
@@ -69,4 +94,17 @@ GUESSS WHAT i'm back and i did it i made the 3d model omd , i just finshed rn it
 ![done 3d model](https://github.com/user-attachments/assets/8c34c2d5-cde5-44fa-8ae0-2523493f4555)
 that's the case only i alr exported the parts and this is the preview 
 i'll go to the coding part now and then i hope i'd still have some life in me and sumbit it (btw i got chemistry at 10 am lol) 
+
+
+
+bom
+-
+| Reference | Component | Footprint | Qty | Description |
+|---|---|---|---|---|
+| U1 | Seeed XIAO RP2040 | XIAO-RP2040-DIP | 1 | Main Microcontroller (MCU) |
+| SW1-SW9 | MX Switches | SW_Cherry_MX_1.00u_PCB | 9 | 1.00u Mechanical switches |
+| J1 | 0.91" OLED Display | PinHeader_1x04_P2.54mm | 1 | 128x32 I2C OLED Screen |
+| J2 | pcb | pcb | 1 | the board (alr bought) |
+| J3 | 3d case | case | 1 | the case (alr bought) |
+
 
